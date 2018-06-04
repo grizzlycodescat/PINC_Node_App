@@ -17,4 +17,11 @@ app.post('/register', (req, res) => {
   })
 })
 
+// To test if the backend endpont works
+app.get('', (req, res) => {
+  res.send({
+    message: 'Test Successful'
+  })
+})
+
 app.listen(process.env.PORT || 8081)
