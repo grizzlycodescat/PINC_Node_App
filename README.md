@@ -20,6 +20,8 @@ In order to run the application, please follow the following specs.
 
 4. On each object, click the "Close" button to close each object.
 
+5. A video of how it works can be found at the following link: "https://www.useloom.com/share/7e7100ccbc8f45cb8a7561da7d519dc7"
+
 NOTE:
 
 As a bit of practice, I added an express based backend and linked it to the frontend vue app, creating a registration page at "http://localhost:8080/#/register".
